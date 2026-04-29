@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Alaa Madi**
-- GitHub: [@yourusername](https://github.com/alaamadii)
+- GitHub: [@Alaa](https://github.com/alaamadii)
 - Email: alaamadi005@gmail.com
 
 ## 🙏 Acknowledgments
