@@ -135,19 +135,7 @@ Your Google Sheet will have columns like:
 
 ![Google Sheets Output](screenshots/googleSheet.png)
 
-### Live Demo - Google Sheets Output
-![Google Sheets Output](https://via.placeholder.com/800x600?text=Add+Your+Google+Sheets+Screenshot+Here)
-*Real-time email data synced to Google Sheets*
 
-### Terminal Output
-![Terminal Success](https://via.placeholder.com/800x400?text=Add+Your+Terminal+Screenshot+Here)
-*Successful email processing confirmation*
-
-**To add your own screenshots:**
-1. Take a screenshot of your Google Sheet with email data
-2. Create a `screenshots/` folder in your project
-3. Add images: `google-sheet-output.png`, `terminal-output.png`
-4. Update the image links in this README
 
 ## �📁 Project Structure
 
